@@ -33,8 +33,7 @@ README.md
    - Corresponding Grade  
 
  Live Demo:
-
-*(Add your Netlify or GitHub Pages link here once deployed)*
+( https://sharmeentp.github.io/Grade-Calculator/ )
 
  What I Learned
 - DOM manipulation using JavaScript. 
